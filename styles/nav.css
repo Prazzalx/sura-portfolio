@@ -88,3 +88,18 @@
     width: 484px;
     height: 576px;
   }
+
+  .banner-greetings {
+    font-weight: 600px;
+    font-size: 35px;
+  }
+
+  .banner-title {
+    font-weight: bold;
+    font-size: 55px;
+  }
+
+  .banner-desc {
+    font-weight: normal;
+    font-size: 18px;
+  }
