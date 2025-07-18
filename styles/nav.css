@@ -61,3 +61,30 @@
     text-decoration: none;
     color: black;
   }
+
+  /* header bg image styles */
+
+  .header {
+
+    background-image: url(../images/developer.png), url(../images/new\ header_bg.png);
+    background-repeat: no-repeat;
+    background-position: top left, bottom right;
+  }
+
+  /* banner style */
+
+  .banner {
+    display: flex;
+    justify-content: space-between;
+    margin: 0 35px 0 230px;
+    gap: 50px;
+  }
+  
+  .banner-content {
+    max-width: 580px;
+  }
+
+  .banner img {
+    width: 484px;
+    height: 576px;
+  }
